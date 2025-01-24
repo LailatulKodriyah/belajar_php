@@ -49,7 +49,7 @@
             <input type="text" name="asal sekolah" placeholder="masukan asal sekolah">
         </p>
         <p>
-            <label>Pilih Jurusan 1:</label>
+            <label>Pilih Jurusan 1 :</label>
             <select name="select">
                 <option value="MPLB">Manajemen Perkantoran dan Layanan Bisnis</option>
                 <option value="PPLG">Pengembangan Perangkat Lunak dan Gim</option>
