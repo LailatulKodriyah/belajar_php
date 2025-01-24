@@ -64,7 +64,7 @@
             </select>         
         </p>
         <p>
-            <label>Pilih Jurusan:</label>
+            <label>Pilih Jurusan :</label>
             <select name="select">
                 <option value="MPLB">Manajemen Perkantoran dan Layanan Bisnis</option>
                 <option value="PPLG">Pengembangan Perangkat Lunak dan Gim</option>
